@@ -42,11 +42,9 @@ Também participei do desenvolvimento de uma aplicação em realidade mista com 
 ---
 
 ### 📈 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericklucioh&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklucioh&layout=compact&theme=default" alt="Top Languages" height="150"/>
-</p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ericklucioh&theme=tokyonight" alt="mystreak"/>
 ---
+
+<!-- - 🔍 Solving <a href="https://leetcode.com/cheehwatang/" alt="link to leetcode"><strong>LeetCode</strong></a> Challenges -->
 
 <sub>PT/EN • Última atualização: 2026</sub>
