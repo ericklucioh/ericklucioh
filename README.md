@@ -1,53 +1,52 @@
-<h1 align="left">Hi 👋, I'm Érick Lúcio</h1>
 
-<!-- Twitter badge removido pois não havia usuário especificado -->
-<!-- Se quiser adicionar, insira seu nome de usuário no href e alt -->
-<!-- Exemplo: https://twitter.com/seu_usuario -->
+<div align="center">
+  <h1>Érick Lúcio</h1>
+  <h3>Desenvolvedor Backend | Python | C# | TypeScript | APIs REST | IA | Azure | Docker</h3>
+  <p>brasil- SC</p>
+  <p>
+    <a href="mailto:contato@ericklucioh.com"><img src="https://img.shields.io/badge/email-contato@ericklucioh.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/ericklucioh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ericklucioh-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    &nbsp;
+    <a href="https://github.com/ericklucioh" target="_blank"><img src="https://img.shields.io/badge/GitHub-ericklucioh-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  </p>
+</div>
+
+---
+
+### 👋 Sobre
+
+Desenvolvedor backend com experiência na construção de APIs, sistemas escaláveis e soluções com inteligência artificial.
+
+Atuo com C#, Python e TypeScript, desenvolvendo aplicações orientadas a dados e focadas em performance, organização e escalabilidade.
+
+Experiência prática no desenvolvimento end-to-end e liderança técnica de um agente de IA para análise de custos de produção, utilizando Azure AI Foundry e arquitetura baseada em RAG, com foco em automação e suporte à tomada de decisão.
+
+Também participei do desenvolvimento de uma aplicação em realidade mista com Microsoft HoloLens 2, voltada à navegação assistiva indoor.
+
+---
+
+### 🚀 Stack & Ferramentas
 <p align="left">
-  <!-- <a href="https://twitter.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/seu_usuario?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
+---
+
+### 📈 Estatísticas
 <p align="left">
-  <a href="https://linkedin.com/in/ericklucioh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ericklucioh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <!--
-  <a href="https://discord.gg/ericklucioh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ericklucioh&show_icons=true&theme=default" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericklucioh&layout=compact&theme=default" alt="Top Languages" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  </a>
-</p>
+---
 
-<!-- Stats opcionais, descomente se quiser mostrar -->
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericklucioh&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ericklucioh&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ericklucioh" alt="GitHub Streak" /></p>
--->
+<sub>PT/EN • Última atualização: 2026</sub>
