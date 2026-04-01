@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Érick Lúcio</h1>
   <h3>Desenvolvedor Backend | Python | C# | TypeScript | APIs REST | IA | Azure | Docker</h3>
-  <p>brasil- SC</p>
+  <p>Brasil- SC</p>
   <p>
     <a href="mailto:contato@ericklucioh.com"><img src="https://img.shields.io/badge/email-contato@ericklucioh.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
     &nbsp;
